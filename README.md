@@ -15,6 +15,7 @@ The project highlights various demographic factors, such as age, gender, country
 7. [Documentation](#documentation)
 8. [Examples](#examples)
 9. [PNG Images - Analysis](#analysis)
+10. [3D Visualization](#visualization)
 
 
 
@@ -97,6 +98,16 @@ Example data and scenarios are provided within the Jupyter Notebooks to illustra
 
 ### Predictive Modeling
 ![Predictive Modeling](images/predictive_modeling.png)
+
+
+
+## Visualization 
+
+This is my 3D visualization - final artwork outcome.
+
+Check website to interact with it:
+
+[3D visualization website](https://aki120900.github.io/big_data_torusm_China_and_S.Korea/)
 
 ---
 
