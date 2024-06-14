@@ -112,4 +112,4 @@ Check website to interact with it:
 ---
 
 For more information and to view the complete analysis and interactive visualization, 
-visit the [GitHub repository](https://github.com/Aki120900/big_data_torusm_China_and_S.Korea) and the [3D visualization website](https://aki120900.github.io/big_data_torusm_China_and_S.Korea/).
+visit the [GitHub repository](https://github.com/Aki120900/big_data_torusm_China_and_S.Korea).
