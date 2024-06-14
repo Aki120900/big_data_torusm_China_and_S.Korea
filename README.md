@@ -14,9 +14,8 @@ The project highlights various demographic factors, such as age, gender, country
 6. [Configuration](#configuration)
 7. [Documentation](#documentation)
 8. [Examples](#examples)
-9. [Troubleshooting](#troubleshooting)
-10. [Contributors](#contributors)
-11. [License](#license)
+
+
 
 ## Installation
 1. Clone the repository:
