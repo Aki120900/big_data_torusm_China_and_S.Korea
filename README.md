@@ -83,7 +83,20 @@ Example data and scenarios are provided within the Jupyter Notebooks to illustra
 
 ## Analysis
 
+### Visitor Arrivals by Country/Region
+![Visitor Arrivals by Country/Region](images/region_visits.png)
 
+### Visitor Arrivals by Gender
+![Visitor Arrivals by Gender](images/gender.png)
+
+### Visitor Arrivals by Age
+![Visitor Arrivals by Age](images/age.png)
+
+### Crew Visits
+![Crew Visits](images/crew.png)
+
+### Predictive Modeling
+![Predictive Modeling](images/predictive_modeling.png)
 
 ---
 
